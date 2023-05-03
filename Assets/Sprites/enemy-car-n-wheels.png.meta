@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 35b2a5dfc4bc14887bd67f7ed2b58b97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1500
+        width: 435
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.5, y: -258}
+        - {x: -105.5, y: -266}
+        - {x: -209.5, y: -242}
+        - {x: -198.5, y: -154}
+        - {x: -176.5, y: -102}
+        - {x: -179.5, y: -3}
+        - {x: -172.5, y: 86}
+        - {x: -122.5, y: 202}
+        - {x: -93.5, y: 266}
+        - {x: -39.5, y: 274}
+        - {x: 0.5, y: 287}
+        - {x: 35.5, y: 284}
+        - {x: 95.5, y: 286}
+        - {x: 144.5, y: 267}
+        - {x: 177.5, y: 184}
+        - {x: 207.5, y: 84}
+        - {x: 223.5, y: -14}
+        - {x: 222.5, y: -95}
+        - {x: 241.5, y: -166}
+        - {x: 227.5, y: -245}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33061adc8fa954d92a5dfba152fe8d22
+      internalID: 1105694888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1407
+        width: 447
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: -292.5}
+        - {x: 41.5, y: -308.5}
+        - {x: -43.5, y: -315.5}
+        - {x: -134.5, y: -315.5}
+        - {x: -144.5, y: -282.5}
+        - {x: -141.4096, y: -222.57263}
+        - {x: -169.5, y: -179.5}
+        - {x: -196.5, y: -132.5}
+        - {x: -227.5, y: -47.5}
+        - {x: -212.5, y: 9.5}
+        - {x: -193.5, y: 81.5}
+        - {x: -180.5, y: 139.5}
+        - {x: -121.5, y: 163.5}
+        - {x: -99.5, y: 225.5}
+        - {x: -74.5, y: 272.5}
+        - {x: -37.5, y: 289.5}
+        - {x: -1.5, y: 315.5}
+        - {x: 85.5, y: 315.5}
+        - {x: 154.5, y: 315.5}
+        - {x: 200.5, y: 283.5}
+        - {x: 228.5, y: 212.5}
+        - {x: 228.5, y: 163.5}
+        - {x: 198.5, y: 177.5}
+        - {x: 207.5, y: 114.5}
+        - {x: 209.5, y: 59.5}
+        - {x: 229.5, y: 17.5}
+        - {x: 216.5, y: -121.5}
+        - {x: 187.5, y: -120.5}
+        - {x: 160.5, y: -185.5}
+        - {x: 181.5, y: -230.5}
+        - {x: 166.5, y: -269.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca643879285848a180941a4bf5f0b6b
+      internalID: 2137556248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_2
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1336
+        width: 447
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 244, y: -293.5}
+        - {x: 212, y: -343.5}
+        - {x: 152, y: -345.5}
+        - {x: 93, y: -341.5}
+        - {x: -32, y: -308.5}
+        - {x: -66, y: -280.5}
+        - {x: -123, y: -246.5}
+        - {x: -159, y: -234.5}
+        - {x: -187, y: -207.5}
+        - {x: -195, y: -167.5}
+        - {x: -194, y: -99.5}
+        - {x: -199, y: 2.5}
+        - {x: -164, y: 59.5}
+        - {x: -130, y: 87.5}
+        - {x: -110, y: 151.5}
+        - {x: -99, y: 278.5}
+        - {x: -65, y: 312.5}
+        - {x: -37, y: 322.5}
+        - {x: 19, y: 325.5}
+        - {x: 52, y: 315.5}
+        - {x: 84, y: 327.5}
+        - {x: 155, y: 321.5}
+        - {x: 173, y: 293.5}
+        - {x: 214, y: 231.5}
+        - {x: 172, y: 195.5}
+        - {x: 169, y: 121.5}
+        - {x: 198, y: 78.5}
+        - {x: 211, y: 48.5}
+        - {x: 247, y: 30.5}
+        - {x: 247, y: -122.5}
+        - {x: 241, y: -173.5}
+        - {x: 204, y: -181.5}
+        - {x: 197, y: -216.5}
+        - {x: 193, y: -271.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed17ff75e39a41cc82b1f89212e39c6
+      internalID: 1799508318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_3
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1490
+        width: 228
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -325, y: -104}
+        - {x: -300, y: 95}
+        - {x: -310, y: 228}
+        - {x: -249, y: 279}
+        - {x: -154, y: 279}
+        - {x: 91, y: 264}
+        - {x: 300, y: 265}
+        - {x: 303, y: 121}
+        - {x: 276, y: -259}
+        - {x: 185, y: -279}
+        - {x: 58, y: -277}
+        - {x: -92, y: -256}
+        - {x: -168, y: -260}
+        - {x: -316, y: -244}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551404f196c81403dbe65a42cd8cd481
+      internalID: 646780669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_4
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 942
+        width: 195
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 134.5, y: -257.5}
+        - {x: 35.5, y: -262.5}
+        - {x: -48.5, y: -255.5}
+        - {x: -131.5, y: -248.5}
+        - {x: -193.5, y: -277.5}
+        - {x: -316.5, y: -262.5}
+        - {x: -313.5, y: 202.5}
+        - {x: -283.5, y: 247.5}
+        - {x: -216.5, y: 264.5}
+        - {x: -143.5, y: 248.5}
+        - {x: -92.5, y: 233.5}
+        - {x: -53.5, y: 277.5}
+        - {x: 63.5, y: 277.5}
+        - {x: 148.5, y: 259.5}
+        - {x: 211.5, y: 273.5}
+        - {x: 298.5, y: 256.5}
+        - {x: 330.5, y: 150.5}
+        - {x: 277.5, y: 63.5}
+        - {x: 310.5, y: -71.5}
+        - {x: 327.5, y: -192.5}
+        - {x: 268.5, y: -261.5}
+        - {x: 172.5, y: -256.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb596ee6724247fab74c3e0bc756d71
+      internalID: -1859242363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 840
+        width: 235
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.5, y: 137}
+        - {x: 43.5, y: 104}
+        - {x: -36.5, y: 102}
+        - {x: -105.5, y: 151}
+        - {x: -117.5, y: 214}
+        - {x: -92.5, y: 282}
+        - {x: -48.5, y: 311}
+        - {x: 26.5, y: 310}
+        - {x: 100.5, y: 278}
+        - {x: 108.5, y: 182}
+      - - {x: 81.5, y: -263}
+        - {x: 42.5, y: -289}
+        - {x: 2.5, y: -281}
+        - {x: -86.5, y: -255}
+        - {x: -99.5, y: -181}
+        - {x: -84.5, y: -104}
+        - {x: -44.5, y: -72}
+        - {x: 9.5, y: -68}
+        - {x: 83.5, y: -80}
+        - {x: 115.5, y: -121}
+        - {x: 121.5, y: -237}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57b454d35214c34b57b458b1465f88
+      internalID: -28577839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 658
+        width: 231
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 72.5}
+        - {x: -97, y: 97.5}
+        - {x: -117, y: 140.5}
+        - {x: -117, y: 212.5}
+        - {x: -88, y: 269.5}
+        - {x: -57, y: 290.5}
+        - {x: 74, y: 283.5}
+        - {x: 98, y: 235.5}
+        - {x: 103, y: 85.5}
+      - - {x: 40, y: -304.5}
+        - {x: -65, y: -290.5}
+        - {x: -101, y: -249.5}
+        - {x: -107, y: -178.5}
+        - {x: -84, y: -126.5}
+        - {x: -24, y: -86.5}
+        - {x: 60, y: -95.5}
+        - {x: 103, y: -134.5}
+        - {x: 117, y: -198.5}
+        - {x: 101, y: -274.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71907647c434a46b9be99ed84c88bdfb
+      internalID: 1947017310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_7
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 30
+        width: 232
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 101.5}
+        - {x: 40, y: 83.5}
+        - {x: -29, y: 89.5}
+        - {x: -84, y: 113.5}
+        - {x: -122, y: 171.5}
+        - {x: -101, y: 285.5}
+        - {x: -46, y: 301.5}
+        - {x: 85, y: 295.5}
+        - {x: 106, y: 238.5}
+        - {x: 111, y: 151.5}
+      - - {x: 56, y: -294.5}
+        - {x: -56, y: -281.5}
+        - {x: -99, y: -242.5}
+        - {x: -100, y: -119.5}
+        - {x: -45, y: -80.5}
+        - {x: 84, y: -86.5}
+        - {x: 120, y: -137.5}
+        - {x: 121, y: -236.5}
+        - {x: 109, y: -278.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b90e189387423d8a0201aaea990b4
+      internalID: -1127963050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 575
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 1.5}
+        - {x: -195.5, y: 3.5}
+        - {x: -225.5, y: 53.5}
+        - {x: -226.5, y: 97.5}
+        - {x: -218.5, y: 173.5}
+        - {x: -208.5, y: 220.5}
+        - {x: -97.5, y: 231.5}
+        - {x: -67.5, y: 196.5}
+        - {x: -57.5, y: 96.5}
+        - {x: -71.5, y: 28.5}
+      - - {x: 119.5, y: -0.5}
+        - {x: 95.5, y: 9.5}
+        - {x: 78.5, y: 82.5}
+        - {x: 76.5, y: 153.5}
+        - {x: 82.5, y: 208.5}
+        - {x: 115.5, y: 231.5}
+        - {x: 181.5, y: 233.5}
+        - {x: 225.5, y: 205.5}
+        - {x: 237.5, y: 113.5}
+        - {x: 227.5, y: 10.5}
+      - - {x: -145.5, y: -230.5}
+        - {x: -267.5, y: -234.5}
+        - {x: -284.5, y: -120.5}
+        - {x: -280.5, y: -24.5}
+        - {x: -227.5, y: -4.5}
+        - {x: -134.5, y: -15.5}
+        - {x: -114.5, y: -171.5}
+      - - {x: 158.5, y: -233.5}
+        - {x: 123.5, y: -103.5}
+        - {x: 139.5, y: -46.5}
+        - {x: 161.5, y: -10.5}
+        - {x: 243.5, y: -3.5}
+        - {x: 279.5, y: -23.5}
+        - {x: 302.5, y: -112.5}
+        - {x: 280.5, y: -229.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720413696c3da4051b55b7e4be6dff73
+      internalID: 326331235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 581
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.5, y: 1}
+        - {x: 98.5, y: 244}
+        - {x: 286.5, y: 244}
+        - {x: 286.5, y: 1}
+      - - {x: 187.5, y: -253}
+        - {x: 60.5, y: -252}
+        - {x: 57.5, y: -116}
+        - {x: 74.5, y: -51}
+        - {x: 114.5, y: -17}
+        - {x: 211.5, y: -34}
+        - {x: 235.5, y: -243}
+      - - {x: -84.5, y: -230}
+        - {x: -106.5, y: -251}
+        - {x: -213.5, y: -247}
+        - {x: -235.5, y: -133}
+        - {x: -218.5, y: -47}
+        - {x: -189.5, y: -24}
+        - {x: -103.5, y: -23}
+        - {x: -80.5, y: -74}
+        - {x: -64.5, y: -159}
+      - - {x: -243.5, y: 5}
+        - {x: -278.5, y: 12}
+        - {x: -293.5, y: 107}
+        - {x: -286.5, y: 169}
+        - {x: -268.5, y: 233}
+        - {x: -151.5, y: 227}
+        - {x: -127.5, y: 97}
+        - {x: -139.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b500ac999934c0aa12e1e0f951df5b
+      internalID: -1451103619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 0
+        width: 578
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: -3}
+        - {x: -223.5, y: 5}
+        - {x: -233.5, y: 70}
+        - {x: -230.5, y: 184}
+        - {x: -206.5, y: 226}
+        - {x: -118.5, y: 228}
+        - {x: -83.5, y: 200}
+        - {x: -66.5, y: 135}
+        - {x: -83.5, y: 7}
+      - - {x: 64.5, y: 1}
+        - {x: 63.5, y: 214}
+        - {x: 189.5, y: 234}
+        - {x: 219.5, y: 178}
+        - {x: 228.11902, y: 96.73453}
+        - {x: 225.5, y: 1}
+      - - {x: 195.5, y: -237}
+        - {x: 138.5, y: -225}
+        - {x: 123.96069, y: -147.81506}
+        - {x: 130.5, y: -47}
+        - {x: 151.5, y: -12}
+        - {x: 240.5, y: -11}
+        - {x: 277.5, y: -42}
+        - {x: 285.5, y: -153}
+        - {x: 278.5, y: -226}
+      - - {x: -289.5, y: -237}
+        - {x: -294.5, y: -113}
+        - {x: -283.5, y: -35}
+        - {x: -257.5, y: -14}
+        - {x: -210.59338, y: -13.633545}
+        - {x: -156.5, y: -18}
+        - {x: -134.5, y: -67}
+        - {x: -133.02252, y: -117.232994}
+        - {x: -136.5, y: -205}
+        - {x: -129.5, y: -237}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf4d37d50a14cd9875a5a505ad02e0
+      internalID: 691419557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 7
+        width: 591
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -260.5, y: -239}
+        - {x: -260.5, y: -10}
+        - {x: -39.5, y: -10}
+        - {x: -39.5, y: -239}
+      - - {x: 48.5, y: -244}
+        - {x: 48.5, y: -4}
+        - {x: 214.5, y: -4}
+        - {x: 214.5, y: -244}
+      - - {x: 91.5, y: 12}
+        - {x: 91.5, y: 242}
+        - {x: 284.5, y: 242}
+        - {x: 284.5, y: 12}
+      - - {x: -221.5, y: 8}
+        - {x: -278.5, y: 21}
+        - {x: -296.5, y: 102}
+        - {x: -292.5, y: 201}
+        - {x: -260.5, y: 240}
+        - {x: -155.5, y: 235}
+        - {x: -128.5, y: 124}
+        - {x: -137.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a845cd1bafd844610961fe52014641d0
+      internalID: -2134752904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 387
+        width: 574
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -280.5, y: -5}
+        - {x: -280.5, y: 237}
+        - {x: -113.5, y: 237}
+        - {x: -113.5, y: -5}
+      - - {x: -88.5, y: -252}
+        - {x: -193.5, y: -252}
+        - {x: -215.5, y: -195}
+        - {x: -211.5, y: -59}
+        - {x: -175.5, y: -29}
+        - {x: -81.5, y: -34}
+        - {x: -60.5, y: -101}
+        - {x: -59.5, y: -219}
+      - - {x: 173.5, y: 0}
+        - {x: 145.5, y: 29}
+        - {x: 139.5, y: 104}
+        - {x: 141.5, y: 149}
+        - {x: 158.5, y: 221}
+        - {x: 273.5, y: 220}
+        - {x: 291.5, y: 152}
+        - {x: 291.5, y: 2}
+      - - {x: 211.5, y: -252}
+        - {x: 99.5, y: -252}
+        - {x: 73.5, y: -152}
+        - {x: 88.5, y: -72}
+        - {x: 108.5, y: -31}
+        - {x: 203.5, y: -32}
+        - {x: 227.5, y: -62}
+        - {x: 239.5, y: -170}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10ab8490bd84116bbd18ec5acb5b7b
+      internalID: 3309555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_13
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 502
+        width: 582
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166, y: 27}
+        - {x: -208, y: 38}
+        - {x: -224, y: 176}
+        - {x: -219, y: 256}
+        - {x: -73, y: 253}
+        - {x: -52, y: 167}
+        - {x: -78, y: 32}
+      - - {x: 179, y: 32}
+        - {x: 101, y: 28}
+        - {x: 72, y: 129}
+        - {x: 78, y: 206}
+        - {x: 93, y: 248}
+        - {x: 211, y: 251}
+        - {x: 236, y: 186}
+        - {x: 233, y: 42}
+      - - {x: -128, y: -165}
+        - {x: -147, y: -202}
+        - {x: -238, y: -207}
+        - {x: -262, y: -190}
+        - {x: -282, y: -135}
+        - {x: -276, y: -7}
+        - {x: -244, y: 19}
+        - {x: -132, y: 15}
+        - {x: -118, y: -55}
+        - {x: -116, y: -96}
+      - - {x: 140, y: -204}
+        - {x: 134, y: -92}
+        - {x: 145, y: 18}
+        - {x: 268, y: 15}
+        - {x: 300, y: -78}
+        - {x: 279, y: -206}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7d9070362040c6824170828f9c4a7
+      internalID: -28114883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 787
+        width: 439
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166.5, y: -90}
+        - {x: 140.5, y: -227}
+        - {x: 101.5, y: -264}
+        - {x: 40.5, y: -308}
+        - {x: -22.5, y: -307}
+        - {x: -84.5, y: -308}
+        - {x: -112.5, y: -266}
+        - {x: -152.5, y: -247}
+        - {x: -171.5, y: -177}
+        - {x: -182.5, y: -98}
+        - {x: -203.5, y: -31}
+        - {x: -203.5, y: -4}
+        - {x: -224.5, y: 89}
+        - {x: -223.5, y: 178}
+        - {x: -172.5, y: 242}
+        - {x: -107.5, y: 266}
+        - {x: -69.5, y: 314}
+        - {x: -39.5, y: 310}
+        - {x: -16.5, y: 268}
+        - {x: 24.5, y: 313}
+        - {x: 88.5, y: 308}
+        - {x: 96.5, y: 269}
+        - {x: 171.5, y: 243}
+        - {x: 190.5, y: 207}
+        - {x: 219.5, y: 139}
+        - {x: 182.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f318720b75419c8dbaa4e8def64ea
+      internalID: 923888063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 714
+        width: 454
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 196, y: -155}
+        - {x: 172, y: -222}
+        - {x: 224, y: -271}
+        - {x: 178, y: -330}
+        - {x: 147, y: -335}
+        - {x: 124, y: -348}
+        - {x: 40, y: -321}
+        - {x: -21, y: -317}
+        - {x: -58, y: -318}
+        - {x: -79, y: -287}
+        - {x: -105, y: -311}
+        - {x: -136, y: -273}
+        - {x: -163, y: -281}
+        - {x: -183, y: -252}
+        - {x: -223, y: -211}
+        - {x: -221, y: -127}
+        - {x: -226, y: -79}
+        - {x: -195, y: -19}
+        - {x: -207, y: 38}
+        - {x: -193, y: 99}
+        - {x: -190, y: 195}
+        - {x: -178, y: 264}
+        - {x: -135, y: 278}
+        - {x: -73, y: 289}
+        - {x: -31, y: 344}
+        - {x: -6, y: 353}
+        - {x: 21, y: 334}
+        - {x: 26, y: 277}
+        - {x: 68, y: 257}
+        - {x: 92, y: 308}
+        - {x: 131, y: 297}
+        - {x: 142, y: 225}
+        - {x: 202, y: 185}
+        - {x: 215, y: 164}
+        - {x: 182, y: 122}
+        - {x: 173, y: 26}
+        - {x: 225, y: -4}
+        - {x: 224, y: -128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170803a116834338a217f49568d8ebb
+      internalID: -382882697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_16
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1501
+        width: 224
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512711318e8842e2b83a583dd68ba86
+      internalID: -128748133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_17
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1499
+        width: 223
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6f224b632e44aea0e4cb63cc98b2c
+      internalID: 761669469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_18
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 973
+        width: 198
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a6ba0c55e2400c824045afac0f440
+      internalID: -533129794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-car-n-wheels_19
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 954
+        width: 205
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1dcf885fd554f27b10886ab0a2362a
+      internalID: 17991417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemy-car-n-wheels_0: 1105694888
+      enemy-car-n-wheels_1: 2137556248
+      enemy-car-n-wheels_10: 691419557
+      enemy-car-n-wheels_11: -2134752904
+      enemy-car-n-wheels_12: 3309555
+      enemy-car-n-wheels_13: -28114883
+      enemy-car-n-wheels_14: 923888063
+      enemy-car-n-wheels_15: -382882697
+      enemy-car-n-wheels_16: -128748133
+      enemy-car-n-wheels_17: 761669469
+      enemy-car-n-wheels_18: -533129794
+      enemy-car-n-wheels_19: 17991417
+      enemy-car-n-wheels_2: 1799508318
+      enemy-car-n-wheels_3: 646780669
+      enemy-car-n-wheels_4: -1859242363
+      enemy-car-n-wheels_5: -28577839
+      enemy-car-n-wheels_6: 1947017310
+      enemy-car-n-wheels_7: -1127963050
+      enemy-car-n-wheels_8: 326331235
+      enemy-car-n-wheels_9: -1451103619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

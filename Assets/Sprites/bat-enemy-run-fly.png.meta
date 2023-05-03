@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 66ce8913a1bfc4de59bcbd051e17784c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat-enemy-run-fly_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1474
+        width: 453
+        height: 574
+      alignment: 9
+      pivot: {x: 0.3178808, y: 0.2726481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.5, y: -37}
+        - {x: 150.5, y: -53}
+        - {x: 144.5, y: -123}
+        - {x: 122.5, y: -135}
+        - {x: 128.5, y: -147}
+        - {x: 118.5, y: -163}
+        - {x: 53.5, y: -152}
+        - {x: 36.5, y: -133}
+        - {x: 27.5, y: -151}
+        - {x: -7.5, y: -186}
+        - {x: 19.5, y: -232}
+        - {x: -37.5, y: -287}
+        - {x: -102.5, y: -287}
+        - {x: -187.5, y: -229}
+        - {x: -181.5, y: -181}
+        - {x: -162.5, y: -152}
+        - {x: -154.5, y: -94}
+        - {x: -184.5, y: -94}
+        - {x: -208.5, y: -82}
+        - {x: -226.5, y: -62}
+        - {x: -226.5, y: -16}
+        - {x: -210.5, y: 25}
+        - {x: -174.5, y: 62}
+        - {x: -151.5, y: 64}
+        - {x: -160.5, y: 88}
+        - {x: -155.5, y: 110}
+        - {x: -141.5, y: 131}
+        - {x: -120.5, y: 131}
+        - {x: -113.5, y: 127}
+        - {x: -110.5, y: 141}
+        - {x: -120.5, y: 156}
+        - {x: -129.5, y: 182}
+        - {x: -129.5, y: 207}
+        - {x: -123.5, y: 213}
+        - {x: -109.5, y: 213}
+        - {x: -123.5, y: 249}
+        - {x: -123.5, y: 256}
+        - {x: -118.5, y: 262}
+        - {x: -88.5, y: 265}
+        - {x: -71.5, y: 261}
+        - {x: -51.5, y: 250}
+        - {x: -51.5, y: 275}
+        - {x: -47.5, y: 283}
+        - {x: -38.5, y: 283}
+        - {x: -17.5, y: 277}
+        - {x: 5.5, y: 259}
+        - {x: 19.5, y: 231}
+        - {x: 21.5, y: 218}
+        - {x: 37.5, y: 220}
+        - {x: 44.5, y: 229}
+        - {x: 54.5, y: 233}
+        - {x: 64.5, y: 220}
+        - {x: 74.5, y: 190}
+        - {x: 71.5, y: 164}
+        - {x: 74.5, y: 151}
+        - {x: 74.5, y: 140}
+        - {x: 69.5, y: 126}
+        - {x: 76.5, y: 96}
+        - {x: 78.5, y: 48}
+        - {x: 102.5, y: 43}
+        - {x: 85.5, y: 85}
+        - {x: 83.5, y: 87}
+        - {x: 83.5, y: 99}
+        - {x: 103.5, y: 124}
+        - {x: 115.5, y: 215}
+        - {x: 121.5, y: 221}
+        - {x: 137.5, y: 221}
+        - {x: 163.5, y: 244}
+        - {x: 196.5, y: 230}
+        - {x: 208.5, y: 213}
+        - {x: 211.5, y: 192}
+        - {x: 226.5, y: 187}
+        - {x: 226.5, y: 159}
+        - {x: 215.5, y: 132}
+        - {x: 215.5, y: 111}
+        - {x: 192.5, y: 80}
+        - {x: 188.5, y: 37}
+        - {x: 147.5, y: 5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd7efeffffffff0800000000000000
+      internalID: -270017027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-enemy-run-fly_1
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1491
+        width: 471
+        height: 553
+      alignment: 9
+      pivot: {x: 0.31210193, y: 0.23688969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -235.5, y: -264.5}
+        - {x: -235.5, y: -156.5}
+        - {x: -191.5, y: 98.5}
+        - {x: -151.5, y: 160.5}
+        - {x: -154.5, y: 199.5}
+        - {x: -147.5, y: 206.5}
+        - {x: -133.5, y: 206.5}
+        - {x: -147.5, y: 242.5}
+        - {x: -148.5, y: 248.5}
+        - {x: -144.5, y: 254.5}
+        - {x: -135.5, y: 255.5}
+        - {x: -107.5, y: 257.5}
+        - {x: -91.5, y: 253.5}
+        - {x: -75.5, y: 243.5}
+        - {x: -76.5, y: 270.5}
+        - {x: -72.5, y: 276.5}
+        - {x: -56.5, y: 276.5}
+        - {x: -28.5, y: 262.5}
+        - {x: 41.5, y: 228.5}
+        - {x: 78.5, y: 10.5}
+        - {x: 183.5, y: 54.5}
+        - {x: 235.5, y: 30.5}
+        - {x: 235.5, y: -75.5}
+        - {x: 64.5, y: -207.5}
+        - {x: 64.5, y: -226.5}
+        - {x: 42.5, y: -253.5}
+        - {x: 8.5, y: -276.5}
+        - {x: -26.5, y: -276.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d62584000000000800000000000000
+      internalID: 1213361562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-enemy-run-fly_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1475
+        width: 471
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4808917, y: 0.24689165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87c7acffffffff0800000000000000
+      internalID: -897812267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-enemy-run-fly_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1473
+        width: 444
+        height: 562
+      alignment: 9
+      pivot: {x: 0.3412162, y: 0.22775802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512117dffffffff0800000000000000
+      internalID: -686743210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bat-enemy-run-fly_0: -270017027
+      bat-enemy-run-fly_1: 1213361562
+      bat-enemy-run-fly_2: -897812267
+      bat-enemy-run-fly_3: -686743210
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+

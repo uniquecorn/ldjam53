@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2806f6047a4a4d4fa19c8ff463887557, type: 3}
+  m_Name: ItemData
+  m_EditorClassIdentifier: 
+  items:
+  - rid: 1205054420083539968
+  - rid: 3238690705871470593
+  - rid: 3238690705871470594
+  - rid: 3238690705871470595
+  - rid: 3238690710127640577
+  bloodExplosion: {fileID: 795013233841362648, guid: 545ffec07cb0147dcb9ef2689b78e705, type: 3}
+  bloodPrefabs:
+  - {fileID: -4415998443184896047, guid: 72785d121b4d54315ad42938dc2e9632, type: 3}
+  - {fileID: -4415998443184896047, guid: f845355ddace544b1aefe02d1b9dad4c, type: 3}
+  - {fileID: -4415998443184896047, guid: f785ea9bf944d48aeb0118dff50a06e1, type: 3}
+  bigBlood: {fileID: -4415998443184896047, guid: 7954bdd1f86e64e45a3fae7ae2b86c5c, type: 3}
+  bullet: {fileID: 3953995290886703167, guid: 2e95c64357f84463c8e8ab8a179ee0e2, type: 3}
+  props:
+  - {fileID: 1683011269682472863, guid: 0b5cf530251a84d6b904e8e84f6e0405, type: 3}
+  - {fileID: 4524685649869074591, guid: 1a7c3db959410468cb53ca7a9ef17e4d, type: 3}
+  - {fileID: 3435065911558421134, guid: 46dccf160f8b941a897a41d4e0850221, type: 3}
+  - {fileID: 6399776668095992238, guid: e6e71c883fc754ad6b73b2171e67d203, type: 3}
+  - {fileID: 9138745617695412696, guid: 8a58aa9145b2f4057a7be57e967af047, type: 3}
+  enemies:
+  - {fileID: 7950115599913268833, guid: f308720e09cc94be0bda61a6617b117e, type: 3}
+  - {fileID: 8914581263289117644, guid: e56c8ce61ebb64d68bc06d7cd9077e8c, type: 3}
+  car: {fileID: 5165157006990610568, guid: 32c483c13d5754cb596a7c5343d541b0, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1205054420083539968
+      type: {class: Item, ns: , asm: Assembly-CSharp}
+      data:
+        itemID: 0
+        icon: {fileID: -257497416, guid: ed313ca6ab5fc40318f4cb68690d4884, type: 3}
+        name: head
+        description: 
+        width: 2
+        height: 2
+        editGrids: 0
+        gib: {fileID: 2840319373612679035, guid: 14d4f579747e747209b4bd2e1c0e77b5, type: 3}
+        blank: []
+        nonrollable: 0
+    - rid: 3238690705871470593
+      type: {class: Foot, ns: , asm: Assembly-CSharp}
+      data:
+        itemID: 1
+        icon: {fileID: -252046948, guid: ed313ca6ab5fc40318f4cb68690d4884, type: 3}
+        name: foot
+        description: +50% acceleration
+        width: 2
+        height: 2
+        editGrids: 1
+        gib: {fileID: 8882962684109900665, guid: cfd411974b0894c2fa306cc2a89c84dd, type: 3}
+        blank:
+        - x: 1
+          y: 1
+        nonrollable: 0
+    - rid: 3238690705871470594
+      type: {class: Gloves, ns: , asm: Assembly-CSharp}
+      data:
+        itemID: 2
+        icon: {fileID: -189086900, guid: ed313ca6ab5fc40318f4cb68690d4884, type: 3}
+        name: gloves
+        description: +20% handling
+        width: 2
+        height: 2
+        editGrids: 0
+        gib: {fileID: 3174301213912499321, guid: 590b4b0c6feef4893b33c34f8a9cde73, type: 3}
+        blank: []
+        nonrollable: 0
+    - rid: 3238690705871470595
+      type: {class: Finger, ns: , asm: Assembly-CSharp}
+      data:
+        itemID: 3
+        icon: {fileID: -1037823625, guid: ed313ca6ab5fc40318f4cb68690d4884, type: 3}
+        name: finger
+        description: +10% firerate
+        width: 1
+        height: 1
+        editGrids: 0
+        gib: {fileID: 4560528289870912540, guid: 27926a6d5e7c049398f635cf84d8b837, type: 3}
+        blank: []
+        nonrollable: 0
+    - rid: 3238690710127640577
+      type: {class: Gun, ns: , asm: Assembly-CSharp}
+      data:
+        itemID: 4
+        icon: {fileID: -1041252689, guid: ed313ca6ab5fc40318f4cb68690d4884, type: 3}
+        name: revolver
+        description: shoot shoot
+        width: 2
+        height: 2
+        editGrids: 1
+        gib: {fileID: 6967605645893932945, guid: 15ab7e0a3c8fc436299fa83b4f830c2d, type: 3}
+        blank:
+        - x: 0
+          y: 0
+        nonrollable: 0
+        fireRate: 0.5
+        bulletPrefab: {fileID: 3953995290886703167, guid: 2e95c64357f84463c8e8ab8a179ee0e2, type: 3}
+        inaccuracy: 0.1
